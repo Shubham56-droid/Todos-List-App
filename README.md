@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Todo-List App Using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<h2>About the Todo-List App</h2>
+<p>This Project of todolist app that can store the  list of  work you want  to do . It is  made with JSX , JavaScript and CSS , HTML also It can  retain  store data even after reload  also it is a single  page  application
+</p>
+<hr/>
+<p>
+contributer - shubham bawankar
+<br>
+email- shubhambawankar735@gmail
+</p>
